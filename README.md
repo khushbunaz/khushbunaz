@@ -17,11 +17,11 @@ flask,django,html,css,java,mysql,git,github,bootstrap,aws,tensorflow,pytorch,ope
 
 ## Top Projects
 
-- [LeadGenius_Scraper](https://github.com/khushbunaz/LeadGenius_Scraper): A smart AI-powered lead generation tool that scrapes, filters, and exports high-quality business leads. ⭐ 1 star, Language: Python.
-- [Customer_Segmentation_Analysis](https://github.com/khushbunaz/Customer_Segmentation_Analysis): Customer Segmentation using K-Means to cluster customers based on income & spending for smarter marketing insights! ⭐ 1 star, Language: Jupyter Notebook.
+- [LeadGenius_Scraper](https://github.com/khushbunaz/LeadGenius_Scraper): A smart AI-powered lead generation tool that scrapes, filters, and exports high-quality business leads.  Language: Python.
+- [Customer_Segmentation_Analysis](https://github.com/khushbunaz/Customer_Segmentation_Analysis): Customer Segmentation using K-Means to cluster customers based on income & spending for smarter marketing insights!  Language: Jupyter Notebook.
 - [SVM_Image_Classifier](https://github.com/khushbunaz/SVM_Image_Classifier): AI-Powered Cat vs. Dog Classifier using an SVM-based image classifier. ⭐ 1 star, Language: Python.
-- [Airline_Management_System](https://github.com/khushbunaz/Airline_Management_System): A Python-based app for flight scheduling, seat booking, and optimized flight management. ⭐ 1 star, Language: Jupyter Notebook.
-- [Fashion_Recommendation_System](https://github.com/khushbunaz/Fashion_Recommendation_System): An AI-powered fashion assistant that helps users find visually similar clothing based on an uploaded image. ⭐ 1 star, Language: Python.
+- [Airline_Management_System](https://github.com/khushbunaz/Airline_Management_System): A Python-based app for flight scheduling, seat booking, and optimized flight management.  Language: Jupyter Notebook.
+- [Fashion_Recommendation_System](https://github.com/khushbunaz/Fashion_Recommendation_System): An AI-powered fashion assistant that helps users find visually similar clothing based on an uploaded image.  Language: Python.
 
 ## Connect with Me
 
